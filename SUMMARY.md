@@ -5,3 +5,4 @@
 * [What is Programming?](chapter_2.md)
 * [Why JavaScript?](chapter_3.md)
 * [Common Elements of Programming Languages](chapter_4.md)
+* [Syntax 101](chapter_5.md)
